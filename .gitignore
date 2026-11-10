@@ -1,0 +1,11 @@
+
+
+.env
+
+#backend
+
+cmsenv/
+__pycache__/
+*.pyc
+backend/db.sqlite3
+backend/media/
